@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/shadow_coding",
+    "prod_uri": "mysql://root:@localhost/shadow_coding",
+    "blog_name": "Shadow Coding",
+    "gmail_user": "add-user-name",
+    "gmail_password": "add-password",
+    "post_per_page": 2,
+    "admin_username": "shadow",
+    "admin_password": "shadow0011"
+
+
+  }
+}
